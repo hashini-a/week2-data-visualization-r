@@ -1,0 +1,90 @@
+WEEK 2 INTERNSHIP PROJECT
+
+DATA VISUALIZATION AND INSIGHT COMMUNICATION USING R
+
+
+1. INTRODUCTION
+
+2. OBJECTIVE
+
+3. DATASET OVERVIEW
+
+4. DATASET DESCRIPTION
+
+5. TOOLS AND TECHNOLOGIES
+
+6. DATA PREPARATION
+
+7. VISUALIZATION APPROACH
+
+8. AGE DISTRIBUTION HISTOGRAM
+   8.1 Purpose
+   8.2 R Code
+   8.3 Visualization
+   8.4 Interpretation
+   8.5 Key Insight
+
+9. SURVIVAL BY GENDER
+   9.1 Purpose
+   9.2 R Code
+   9.3 Visualization
+   9.4 Interpretation
+   9.5 Key Insight
+
+10. SURVIVAL BY PASSENGER CLASS
+    10.1 Purpose
+    10.2 R Code
+    10.3 Visualization
+    10.4 Interpretation
+    10.5 Key Insight
+
+11. AGE VS FARE SCATTER PLOT
+    11.1 Purpose
+    11.2 R Code
+    11.3 Visualization
+    11.4 Interpretation
+    11.5 Key Insight
+
+12. FARE BOXPLOT
+    12.1 Purpose
+    12.2 R Code
+    12.3 Visualization
+    12.4 Interpretation
+
+13. AGE DENSITY PLOT
+    13.1 Purpose
+    13.2 R Code
+    13.3 Visualization
+    13.4 Interpretation
+
+14. SURVIVAL RATE BY CLASS
+    14.1 Purpose
+    14.2 R Code
+    14.3 Visualization
+    14.4 Interpretation
+
+15. CORRELATION HEATMAP
+    15.1 Purpose
+    15.2 R Code
+    15.3 Visualization
+    15.4 Interpretation
+
+16. COMPARISON OF VISUALIZATIONS
+
+17. KEY INSIGHTS
+
+18. COMMUNICATION OF FINDINGS
+
+19. CHALLENGES FACED
+
+20. RESULTS
+
+21. CONCLUSION
+
+22. FUTURE SCOPE
+
+23. REFERENCES
+
+24. APPENDIX
+    R CODE
+    SCREENSHOTS
